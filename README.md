@@ -31,5 +31,11 @@
 <br/>
  
 #### :pencil2: Study log
-[<img src="https://img.shields.io/badge/Tistory-Blog-orange?style=for-the-badge&logo=tistory" height="30" />]([https://YOUR_TISTORY_URL](https://devcorner.tistory.com/))
+<div style="display:flex; flex-direction:row;">
+    <a href="https://devcorner.tistory.com/">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=devcorner&theme=default)](https://devcorner.tistory.com/)
+</div><br>
 </div>
