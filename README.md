@@ -1,4 +1,3 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=5acc78&height=200&section=header&text=HanSooJung&fontSize=80)](https://github.com/hansj204)
 ### Hi 👋
 I'm a front-end developer.
 
