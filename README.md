@@ -2,7 +2,7 @@
 I'm a front-end developer.
 
 - 🌱 I want to go beyond the simple CRUD interface to create dynamic and engaging screens. <br>
-- 🤖 These days, I also want to create screens using AI. Excited to explore the possibilities it brings to frontend development!
+- 🤖 These days, I am interested in developing a web with AI services.
 - 📫 Reach me at: hansj2041@gmail.com
 <br><br>
 
