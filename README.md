@@ -46,7 +46,7 @@ I'm a front-end developer.
 
 ## 📝 DevLog
 <div>
-    <a href="https://devcorner.tistory.com/">
+    <a href="https://devcorner.tistory.com/" target="_blank">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
 </div>
