@@ -9,7 +9,7 @@ I'm a front-end developer.
 <div>
   
 ##  💻 I've Used
-**👩‍💼 Daily at the Company: 매일**
+**👩‍💼 Strong**
 <div >
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -23,7 +23,7 @@ I'm a front-end developer.
 </div>
 <br>
 
-**👩‍💼 Infrequently at the Company: 종종** <br>
+**👩‍💼 knowledgeable <br>
 <div>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -32,7 +32,7 @@ I'm a front-end developer.
 </div>
 <br>
 
-**👩‍🎓 Studying Sporadically When I Have Time: 시간날 때마다** <br>
+**👩‍🎓 experienced <br>
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>
