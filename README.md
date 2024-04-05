@@ -23,7 +23,7 @@ I'm a front-end developer.
 </div>
 <br>
 
-**👩‍💼 knowledgeable <br>
+**👩‍💼 knowledgeable** <br>
 <div>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -32,7 +32,7 @@ I'm a front-end developer.
 </div>
 <br>
 
-**👩‍🎓 experienced <br>
+**👩‍🎓 experienced** <br>
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>
